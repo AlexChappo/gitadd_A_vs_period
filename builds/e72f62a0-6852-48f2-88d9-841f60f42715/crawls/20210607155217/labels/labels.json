@@ -1,0 +1,20 @@
+{
+    "elems": {
+        "iter_00000_step_00001_23_a.png": [
+            "btn_shop"
+        ], 
+        "iter_00000_step_00001_36_a.png": [
+            "btn_join_online"
+        ], 
+        "iter_00000_step_00001_6_a.png": [
+            "btn_clubs"
+        ], 
+        "iter_00000_step_00003_25_button.png": [
+            "btn_womens"
+        ], 
+        "iter_00000_step_00008_39_a.png": [
+            "btn_leggins"
+        ]
+    }, 
+    "screens": {}
+}
