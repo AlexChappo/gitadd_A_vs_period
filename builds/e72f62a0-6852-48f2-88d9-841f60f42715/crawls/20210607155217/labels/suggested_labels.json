@@ -1,23 +1,4 @@
 {
-    "elems": {
-        "iter_00000_step_00001_3_span.png": {
-            "btn_join_online": {
-                "all_scores": {
-                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
-                }, 
-                "score": 1.0, 
-                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
-            }
-        }, 
-        "iter_00000_step_00008_12_li.png": {
-            "btn_leggins": {
-                "all_scores": {
-                    "test_ai_mod.carbon_classifiers.perceptual.nn_classifier": 1.0
-                }, 
-                "score": 1.0, 
-                "source": "test_ai_mod.carbon_classifiers.perceptual.nn_classifier"
-            }
-        }
-    }, 
+    "elems": {}, 
     "screens": {}
 }
